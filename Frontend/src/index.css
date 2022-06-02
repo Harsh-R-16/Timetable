@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1.25px;
+}
+h1 {
+  text-align: center;
+}

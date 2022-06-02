@@ -1,0 +1,13 @@
+#navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #000;
+  color: #fff;
+  font-size: 16px;
+  font-family: monospace;
+}
+
+#navbar a {
+  color: #fff;
+  margin: 15px 20px;
+}

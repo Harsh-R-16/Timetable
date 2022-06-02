@@ -1,0 +1,35 @@
+.table {
+  width: 90vw;
+  height: 80vh;
+  margin: 40px auto;
+  border-collapse: collapse;
+  table-layout: fixed;
+  box-shadow: 0 0 5px 5px rgb(221, 221, 221);
+  padding: 40px;
+}
+
+.table tr {
+  text-align: center;
+  border: 1px solid rgb(211, 211, 211);
+}
+
+.table th {
+  font-size: 15px;
+  padding: 20px 0;
+}
+
+.table td {
+  padding: 2px 0 4px 0;
+}
+
+#btn {
+  border: 1px solid #000;
+  width: 10%;
+  display: block;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 50px;
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+}

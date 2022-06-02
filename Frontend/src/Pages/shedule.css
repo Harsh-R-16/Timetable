@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  gap: 15px;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  width: 40%;
+  margin: 50px auto;
+  padding: 10px;
+  margin-top: 50px;
+  box-shadow: 0 0 5px 5px rgb(221, 221, 221);
+}
+
+.container input,
+.container select {
+  width: 90%;
+  height: 45px;
+  font-size: 16px;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  margin: auto;
+}
+.container button {
+  border: 1px solid #000;
+  width: 90%;
+  margin: 20px auto;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+}
